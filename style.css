@@ -1,0 +1,49 @@
+
+body
+{
+  
+    background-color: rgb(61, 60, 60);
+    /* color: aliceblue; */
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.center{
+    /* border: 2px solid red;  */
+    /* background-color: black; */
+    color: white;
+    height: 20%;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+h1
+{
+   
+    text-shadow: 2px 2px 4px rgb(179, 150, 116);
+    color: rgb(179, 150, 116);
+    
+}
+   
+
+.tr{
+    border: 2px solid teal;
+    border-radius: 20px; 
+}
+.tr>th{
+    width: 20%;
+    border-radius: 20px;
+    background-color: rgb(133, 138, 138);
+    border: 2px solid rgb(133, 138, 138);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.tr>td{
+    width: 20%;
+    border-radius: 20px;
+    background-color: rgb(110, 102, 104);
+    border: 2px solid rgb(110, 102, 104);
+    padding: 10px;
+    margin-bottom: 20px;
+   
+}
